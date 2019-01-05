@@ -1,0 +1,2 @@
+# antlr4_prolog2NL
+基于antlr4的prolog语言转自然语言
