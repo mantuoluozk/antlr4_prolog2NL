@@ -1,6 +1,6 @@
 # antlr4_prolog2NL
 基于antlr4的prolog语言转自然语言  
-本项目基于idea  
+本项目基于idea和jdk11  
 输入：
 ```
 start.
